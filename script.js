@@ -2,11 +2,12 @@ var l = function (string) {
     return string.toLocaleString();
 };
 
-var systemLabelColor = "171717";
+var systemLabelColor = "000";
 var severityLabels = {
-    "1192FC": "investigating",
-    "FFA500": "degraded performance",
-    "FF4D4D": "major outage"
+    "1d76db": "investigating",
+    "fbca04": "degraded performance",
+    "d93f0b": "possible problems",
+    "b60205": "major outage"
 };
 
 function render() {
