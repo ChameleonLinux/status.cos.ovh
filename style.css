@@ -109,6 +109,10 @@ img {
     background-color: #FF4D4D;
 }
 
+.panel.possible.problems, .label.possible.problems{
+    background-color: #d93f0b;
+}
+
 .label.system{
     background-color: #171717;
 }
