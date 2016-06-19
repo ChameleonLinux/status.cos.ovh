@@ -113,12 +113,12 @@ img {
     background-color: #d93f0b;
 }
 
-.panel.scheduled.maintenace, .label.scheduled.maintenance {
+.panel.scheduled.maintenance, .label.scheduled.maintenance {
     background-color: #bfd4e9;
 }
 
 .label.system{
-    background-color: #171717;
+    background-color: #000;
 }
 
 ul.systems{
@@ -161,7 +161,7 @@ ul.systems > li:last-child{
     color: #FF4D4D;
 }
 
-.status.scheduled.maintenace {
+.status.scheduled.maintenance {
     color: #bfd4e9;
 }
 
