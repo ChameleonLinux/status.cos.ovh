@@ -113,6 +113,10 @@ img {
     background-color: #d93f0b;
 }
 
+.panel.scheduled.maintenace, .label.scheduled.maintenance {
+    background-color: #bfd4e9;
+}
+
 .label.system{
     background-color: #171717;
 }
@@ -155,6 +159,10 @@ ul.systems > li:last-child{
 
 .status.major.outage{
     color: #FF4D4D;
+}
+
+.status.scheduled.maintenace {
+    color: #bfd4e9;
 }
 
 hr{
