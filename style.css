@@ -115,6 +115,7 @@ img {
 
 .panel.scheduled.maintenance, .label.scheduled.maintenance {
     background-color: #bfd4e9;
+    color: #000;
 }
 
 .label.system{
