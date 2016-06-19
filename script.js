@@ -7,7 +7,8 @@ var severityLabels = {
     "1d76db": "investigating",
     "fbca04": "degraded performance",
     "d93f0b": "possible problems",
-    "b60205": "major outage"
+    "b60205": "major outage",
+    "bfd4e9": "scheduled maintenace"
 };
 
 function render() {
