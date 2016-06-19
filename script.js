@@ -2,7 +2,7 @@ var l = function (string) {
     return string.toLocaleString();
 };
 
-var systemLabelColor = "000";
+var systemLabelColor = "000000";
 var severityLabels = {
     "1d76db": "investigating",
     "fbca04": "degraded performance",
